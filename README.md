@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Takunda Jimmy Chidanika
-- 👀 Backend and Mobile developer
+- 👀 Backend developer
 - 🌱 Student @ Harare Institute of Technology
 
 <!---
