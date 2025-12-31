@@ -8,8 +8,8 @@ I specialise in building backend systems using **Java and Spring Boot**, with a 
 - **Backend:** Java, Spring Boot, JPA, Hibernate
 - **Frontend:** Angular, TypeScript
 - **Architecture:** Microservices, REST APIs, system integration
-- **Databases:** PostgreSQL, MySQL, Oracle, MongoDB
-- **Messaging:** Kafka, RabbitMQ
+- **Databases:** PostgreSQL, MySQL, MongoDB
+- **Messaging:** Kafka
 - **Cloud & DevOps:** AWS, CI/CD, Docker, Linux
 - **Practices:** Clean Code, Agile (Scrum & Kanban), SDLC
 
