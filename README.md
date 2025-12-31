@@ -1,10 +1,22 @@
-👋 Hi, I’m Takunda Jimmy Chidanika
+## Hi, I’m Takunda Jimmy Chidanika
 
-🚀 Innovative Software Engineer | Java | Spring Boot | Angular 
+Software Engineer with 4+ years of enterprise experience designing and delivering scalable, production-ready systems across financial services, insurance, HR, and enterprise platforms.
 
-Greetings! I'm an experienced and dedicated Software Engineer who loves crafting innovative solutions. My expertise lies in Java, SQL, and TypeScript, and I specialize in developing robust applications using frameworks like Spring Boot and Hibernate. I am also proficient in microservices architecture and adept at building user-friendly interfaces with Angular and Flutter.
+I specialise in building backend systems using **Java and Spring Boot**, with a strong focus on **clean code, system integration, and reliability**. I have hands-on experience delivering microservices, API gateways, and data-driven platforms that support real business operations at scale.
 
-<!---
-TJC00/TJC00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### What I work with
+- **Backend:** Java, Spring Boot, JPA, Hibernate
+- **Frontend:** Angular, TypeScript
+- **Architecture:** Microservices, REST APIs, system integration
+- **Databases:** PostgreSQL, MySQL, Oracle, MongoDB
+- **Messaging:** Kafka, RabbitMQ
+- **Cloud & DevOps:** AWS, CI/CD, Docker, Linux
+- **Practices:** Clean Code, Agile (Scrum & Kanban), SDLC
+
+### What I’ve delivered
+- Enterprise systems processing **1,000+ transactions per month**
+- API platforms integrating **10+ enterprise systems**
+- HR and recruitment platforms improving **data completeness by 95%**
+- Executive dashboards supporting data-driven decision-making
+
+I enjoy working on complex problems, improving existing systems, and collaborating with teams to deliver software that creates measurable business value.
